@@ -1,0 +1,105 @@
+# Virtual Environments
+.venv
+venv/
+env/
+ENV/
+.env
+
+# Original Research Documents (Converted)
+DESIGN AND DEVELOPMENT OF AUTOMATED WHEELCHAIR.md
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+.Trashes
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.hypothesis/
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation Build
+site/
+docs/_build/
+
+# Local Development
+*.log
+.env.local
+.env.*.local
+.local/
+
+# Dependencies
+requirements-lock.txt
+
+# Temporary Files
+*.bak
+*.swp
+*.tmp
+*~
+.~*
+
+# IDE Specific
+.vscode/settings.json
+.vscode/extensions.json
+.idea/
+*.iml
+
+# Build Artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
