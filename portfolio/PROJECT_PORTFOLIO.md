@@ -2,6 +2,7 @@
 
 > **Application Attachment & Physical Project Proof**  
 > **Project Role:** Team Lead & Mechanical / Mechatronics Design Engineer  
+> **Individual Ownership:** Solely responsible for all Computer-Aided Design (SolidWorks 3D Modeling) and Finite Element Analysis (FEA Simulation); collaborated closely with a 7-person team on workshop fabrication, electronics integration, software, and field testing.  
 > **Institution:** Department of Mechanical Engineering, University of Jos  
 > **National Recognition:** 🥈 **2nd Place — Kenol Creativity Challenge** (NSE National Conference, Abuja, Dec 2024) | 4th Place — Young Engineers Innovative Competition (YEFoN/NSE, 2024)
 
@@ -33,7 +34,7 @@ This project showcases the end-to-end design, FEA structural validation, hands-o
 * **Maximum Speed & Range:** 8.1 km/h top speed; 12.2 km continuous range (smooth tile) / 6.9 km (gravel).
 * **Power Source:** 24V 35Ah Lithium-ion battery pack (840 Wh capacity).
 * **Turning Radius:** 0.85 m (smooth tile) / 1.00 m (concrete).
-* **Total Project Bill of Materials:** ~₦1,027,000 (~$710 USD) — reducing production cost by over 65% compared to commercial imported powered wheelchairs.
+
 
 ---
 
@@ -48,7 +49,9 @@ The completed prototype integrates mechanical stability, multi-terrain shock abs
 
 ## 3. Computer-Aided Design (CAD) & Finite Element Analysis (FEA)
 
-Having taught myself SolidWorks from scratch, I developed the complete 3D parametric assembly to ISO 7176 wheelchair standards, followed by structural FEA under maximum static and dynamic load conditions.
+*(Solely executed by me: 3D parametric CAD modeling, assembly design, and all FEA simulations).*
+
+Having taught myself SolidWorks from scratch, I independently developed the complete 3D parametric assembly to ISO 7176 wheelchair standards, followed by structural FEA under maximum static and dynamic load conditions.
 
 ### 3.1 SolidWorks 3D Parametric Modeling
 ![Original 3D Modeling of Automated Wheelchair](../media/Original%203D%20Modeling%20of%20Automated%20Wheelchair.jpg)
@@ -172,7 +175,6 @@ To ensure caregiver peace of mind and outdoor user independence, we developed a 
                                        (Flutter App UI)
                                  - Real-time GPS Location
                                  - Tip-over Risk Buzzer / Push Alert
-                                 - Live Battery Voltage & Speed
 ```
 
 | Geolocation & Navigation Testing | Field Testing GPS Trail Over Regional Terrain |
@@ -188,17 +190,19 @@ The wheelchair underwent field validation across four real-world ground conditio
 
 * 🎬 **Video Demonstration:**  
   [▶ View Test Drive Video File: `media/Video of me test riding the wheelchair.mp4`](../media/Video%20of%20me%20test%20riding%20the%20wheelchair.mp4)  
-  *(Demonstrates smooth joystick response, zero-turn agility, forward/reverse drive, suspension dampening, and stable payload support in real-world conditions).*
+
+  [▶ View Test Drive Video File alternative link`](https://www.jouledynamics.me/wheelchair-demo)
+  *(Demonstrates smooth joystick response, zero-turn agility, forward/reverse drive, suspension dampening).*
 
 ---
 
 ## 9. Engineering Competencies Demonstrated
 
-* **Mechanical Engineering & CAD:** SolidWorks 3D parametric design, assembly modeling, production drawings, tolerance analysis.
-* **Structural Simulation (FEA):** Static stress, Von-Mises yield evaluation, displacement limit analysis, factor-of-safety optimization.
-* **Manufacturing & Fabrication:** Metal cutting, pipe bending, Manual Metal Arc (MMA) welding, assembly fitment, industrial painting.
-* **Mechatronics & Embedded Systems:** Microcontroller programming (Arduino C++), sensor interfacing (HC-SR04 ultrasonic, MPU6050 6-DOF IMU, u-blox GPS, HC-05 Bluetooth).
-* **Power Electronics & Troubleshooting:** DC brushed motors, high-current battery management, PCB layout troubleshooting, MOSFET thermal dynamics, industrial power controllers.
-* **Software Development:** Flutter cross-platform mobile development, asynchronous Bluetooth serial communication, Google Maps API integration.
-* **Leadership & Resourcefulness:** Leading a 7-person interdisciplinary engineering team, scrap reclamation, frugal engineering, budget optimization under tight deadlines.
+* **Mechanical Engineering & CAD (Solo Ownership):** SolidWorks 3D parametric design, assembly modeling, production drawings, tolerance analysis.
+* **Structural Simulation & FEA (Solo Ownership):** Static stress, Von-Mises yield evaluation, displacement limit analysis, factor-of-safety optimization.
+* **Manufacturing & Fabrication (Team Collaboration):** Metal cutting, pipe bending, Manual Metal Arc (MMA) welding, assembly fitment, industrial painting.
+* **Mechatronics & Embedded Systems (Team Collaboration):** Microcontroller programming (Arduino C++), sensor interfacing (HC-SR04 ultrasonic, MPU6050 6-DOF IMU, u-blox GPS, HC-05 Bluetooth).
+* **Power Electronics & Troubleshooting (Team Collaboration):** DC brushed motors, high-current battery management, PCB layout troubleshooting, MOSFET thermal dynamics, industrial power controllers.
+* **Software Development (Team Collaboration):** Flutter cross-platform mobile development, asynchronous Bluetooth serial communication, Google Maps API integration.
+* **Leadership & Team Orchestration:** Leading a 7-person interdisciplinary engineering team, scrap reclamation, frugal engineering, budget optimization under tight deadlines.
 
