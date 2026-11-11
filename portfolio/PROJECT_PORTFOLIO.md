@@ -2,7 +2,7 @@
 
 > **Application Attachment & Physical Project Proof**  
 > **Project Role:** Team Lead & Mechanical / Mechatronics Design Engineer  
-> **Individual Ownership:** Solely responsible for all Computer-Aided Design (SolidWorks 3D Modeling) and Finite Element Analysis (FEA Simulation); collaborated closely with a 7-person team on workshop fabrication, electronics integration, software, and field testing.  
+> **Individual Ownership:** Did the Computer-Aided Design (SolidWorks 3D Modeling) and Finite Element Analysis (FEA Simulation); collaborated closely with a 7-person team on workshop fabrication, electronics integration, software, and field testing.  
 > **Institution:** Department of Mechanical Engineering, University of Jos  
 > **National Recognition:** 🥈 **2nd Place — Kenol Creativity Challenge** (NSE National Conference, Abuja, Dec 2024) | 4th Place — Young Engineers Innovative Competition (YEFoN/NSE, 2024)
 
@@ -49,7 +49,7 @@ The completed prototype integrates mechanical stability, multi-terrain shock abs
 
 ## 3. Computer-Aided Design (CAD) & Finite Element Analysis (FEA)
 
-*(Solely executed by me: 3D parametric CAD modeling, assembly design, and all FEA simulations).*
+*(Did all: 3D parametric CAD modeling, assembly design, and all FEA simulations).*
 
 Having taught myself SolidWorks from scratch, I independently developed the complete 3D parametric assembly to ISO 7176 wheelchair standards, followed by structural FEA under maximum static and dynamic load conditions.
 
